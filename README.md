@@ -8,6 +8,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
+
+
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -30,7 +32,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 
-  ![Annotation 2024-12-10 191105](https://github.com/user-attachments/assets/31b6f7e3-09ea-46ad-8d00-f64e05a9016c)
+  
+<img src="https://i.imgur.com/2zo7XmS.png" height="80%" width="80%" alt="Disk sanitization steps"/>
+
 
 </p>
 <p
@@ -45,7 +49,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 
-  ![cgi ](https://github.com/user-attachments/assets/aefe6c5b-c51e-43f6-8d39-852b6bb7e63b)
+  <img src="https://i.imgur.com/N6FEy7A.png" height="80%" width="80%" alt="Disk sanitization steps"/>
+
 
 </p>
 <p>
@@ -60,7 +65,7 @@ World Wide Web Services -> Application Development Features -> [X] CGI
 
 <p>
 
-  ![Annotation 2024-12-10 200521](https://github.com/user-attachments/assets/70d19313-000d-4733-b8c3-1baf71dc175d)
+<img src="https://i.imgur.com/qhx1QJz.png" height="80%" width="80%" alt="Disk sanitization steps"/>
 
 </p>
 <p>
@@ -73,22 +78,20 @@ Created the directory C:\PHP.
   is essential for creating user friendly URLS</li>
 </ul>
 
-<p>
-
- ![php](https://github.com/user-attachments/assets/4dce6f62-e16c-409a-a50b-af76f713c6ed)
+<img src="https://i.imgur.com/SPByTEO.png" height="80%" width="80%" alt="Disk sanitization steps"/>
  
 </p>
 <p>
-From the “osTicket-Installation-Files” folder i thr  unzip PHP into the “C:\PHP” folder.
+From the “osTicket-Installation-Files” folder i extracted PHP folder into the “C:\PHP” folder.
 <ul>
-  <li> the idea is it can process and allow the server/operating system to properly locate and execute
+  <li> the idea is so it  can process and allow the server/operating system to properly locate and execute
   php scripts</li>
 </ul>
   
 </p>
 <p>
   
-  ![Annotation 2024-12-11 142326](https://github.com/user-attachments/assets/5b19380d-b5d1-484c-9d4e-7aa0cc8a6f28)
+<img src="https://i.imgur.com/YbVSIPZ.png" height="80%" width="80%" alt="Disk sanitization steps"/>
   
 </p>
 <p>
@@ -107,7 +110,7 @@ From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5
 </p>
 <p>
 
-  ![Annotation 2024-12-11 145637](https://github.com/user-attachments/assets/f55e8fa6-b6b3-494b-8a00-3cffd62e697e)
+  <img src="https://i.imgur.com/QDZTPHV.png" height="80%" width="80%" alt="Disk sanitization steps"/>
 
 </p>
 <p>
@@ -124,7 +127,7 @@ From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5
 </p>
 <p>
 
-  ![Annotation 2024-12-11 153543](https://github.com/user-attachments/assets/dea64d3f-a6d0-4cea-a6aa-882b81ed33eb)
+  <img src="https://i.imgur.com/zBIYS5i.png" height="80%" width="80%" alt="Disk sanitization steps"/>
 
   
 </p>
@@ -136,7 +139,7 @@ From the “osTicket-Installation-Files” folder, install MySQL 5.5.62 (mysql-5
 </p>
 <p>
 
-  ![Annotation 2024-12-11 154058](https://github.com/user-attachments/assets/3c751404-cf18-4e87-bc98-d31a1736ec20)
+  <img src="https://i.imgur.com/1abwZGg.png" height="80%" width="80%" alt="Disk sanitization steps"/>
 
   
 </p>
@@ -147,8 +150,8 @@ Some extensions are still disabled so we have to enable them.
 </p>
 <p>
 
-  ![Annotation 2024-12-11 154856](https://github.com/user-attachments/assets/5083d674-be76-4341-aa58-4780ac21ac51)
-
+  
+ <img src="https://i.imgur.com/qRG3vtG.png" height="80%" width="80%" alt="Disk sanitization steps"/>
   
 </p>
 <p>
@@ -165,7 +168,7 @@ Some extensions are still disabled so we have to enable them.
 </p>
 <p>
 
-  ![Annotation 2024-12-11 155333](https://github.com/user-attachments/assets/d515cb9f-3377-4bc6-953b-a8efd51fb54f)
+  <img src="https://i.imgur.com/65XhGBm.png" height="80%" width="80%" alt="Disk sanitization steps"/>
 
   
 </p>
@@ -180,7 +183,7 @@ Some extensions are still disabled so we have to enable them.
 </p>
 <p>
 
-  ![Annotation 2024-12-11 161215](https://github.com/user-attachments/assets/5384fa90-a50a-4ffa-9b9c-2a2f01c0149d)
+  <img src="https://i.imgur.com/dbRjlXy.png" height="80%" width="80%" alt="Disk sanitization steps"/>
 
   
 </p>
@@ -197,7 +200,7 @@ Some extensions are still disabled so we have to enable them.
 </p>
 <p>
 
-  ![Annotation 2024-12-11 160421](https://github.com/user-attachments/assets/2994249f-c638-43d9-9c21-e153963c6283)
+   <img src="https://i.imgur.com/0yTQnmp.png" height="80%" width="80%" alt="Disk sanitization steps"/>
 
   
 </p>
